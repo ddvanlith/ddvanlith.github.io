@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ddvanlith.github.io/sitemap.xml
+Sitemap: https://ddvanlith.github.io/tekoha-pages/sitemap.xml
+Sitemap: https://ddvanlith.github.io/tekoha-pages/sitemap-1.xml
+Sitemap: https://ddvanlith.github.io/tekoha-pages/sitemap-2.xml
+Sitemap: https://ddvanlith.github.io/tekoha-pages/sitemap-3.xml
+Sitemap: https://ddvanlith.github.io/tekoha-pages/sitemap-4.xml
+Sitemap: https://ddvanlith.github.io/tekoha-daily/sitemap.xml
